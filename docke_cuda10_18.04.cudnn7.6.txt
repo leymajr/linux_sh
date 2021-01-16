@@ -1,0 +1,7 @@
+nvidia-smi
+mkdir ocr_engine
+apt-get install python3
+apt install python3.6
+apt-get install python3-pip
+apt-get install ffmpeg libsm6 libxext6  -y
+
